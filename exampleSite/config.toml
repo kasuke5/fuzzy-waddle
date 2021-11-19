@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
 title = "Meghna"
-theme = "meghna-hugo"
+theme = "fuzzy-waddle"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -183,7 +183,7 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
@@ -192,6 +192,6 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
+weight = 1
 home = "Accueil"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
